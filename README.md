@@ -10,6 +10,9 @@
  - 🥗 **[Diet Timer](https://github.com/alesfg/diet-timer) :**
  This is an actual project im working into, made on React native (JavaScript). ✅
  
+  - 👨🏻‍✈️  **[Encerra2](https://github.com/DanielinR/AndroidQuiz) :**
+ Game app made on Android Studio (Java). ✅
+ 
  
 ### 💬 Contact: 
 📫 Da.romero.hernandez@gmail.com
