@@ -1,17 +1,24 @@
 <h1 align="center">😁 Hello and welcome to my GitHub profile! 😁</h1>
 
+> [!NOTE]
+> Two new projects recently added.
+
 ## 🧠 My name is *Daniel Romero Hernández* and I am a *software developer*. 🧠
 
-### ⌨ Some of the projects I have worked on:
+ ### ⌨ Some of the projects I have worked on:
+ - 💪 **[GymPilot](https://github.com/DanielinR/GymPilot) :**
+   
+     Web and mobile app for recording workouts and reviewing statistics.
+ - 💸 **[ProfitPilot](https://profitpilot.danielin.xyz) :**
+   
+     Web app for tracking expenses and increasing your savings.
+ - 👮 **[Encerra2](https://github.com/DanielinR/AndroidQuiz) :**
+   
+     Game app made on Android Studio (Java). ✅
 
- - ![10959337 (2)](https://user-images.githubusercontent.com/60990208/189113837-1698177f-ae9d-4c6c-9813-d86d4643d807.png) **[JdeRobot](https://github.com/JdeRobot/RoboticsAcademy) :** 
- This is the main repository that I worked on during my internship. A djago project (python) that supports the academy exercises on the web. ✅
- 
- - 🥗 **[Diet Timer](https://github.com/alesfg/diet-timer) :**
- This is an actual project im working into, made on React native (JavaScript). ✅
- 
-  - 👨🏻‍✈️  **[Encerra2](https://github.com/DanielinR/AndroidQuiz) :**
- Game app made on Android Studio (Java). ✅
+  - ![10959337 (2)](https://user-images.githubusercontent.com/60990208/189113837-1698177f-ae9d-4c6c-9813-d86d4643d807.png) **[JdeRobot](https://github.com/JdeRobot/RoboticsAcademy) :**
+    
+     This is the main repository that I worked on during my internship. A djago project (python) that supports the academy exercises on the web. ✅
  
  
 ### 💬 Contact: 
