@@ -9,7 +9,7 @@
  - 💪 **[GymPilot](https://github.com/DanielinR/GymPilot) :**
    
      Web and mobile app for recording workouts and reviewing statistics.
- - 💸 **[ProfitPilot](https://profitpilot.danielin.xyz) :**
+ - 💸 **[ProfitPilot](https://github.com/DanielinR/ProfitPilot) :**
    
      Web app for tracking expenses and increasing your savings.
  - 👮 **[Encerra2](https://github.com/DanielinR/AndroidQuiz) :**
